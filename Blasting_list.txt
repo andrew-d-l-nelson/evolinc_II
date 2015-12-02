@@ -1,0 +1,5 @@
+Hsap_genome.fasta	Hsap_lincRNAs.fasta	Hsap	Hsap	Hsap_genes.fasta	Hsap_lincRNAs
+Pabe_genome.fasta	Hsap_lincRNAs.fasta	Hsap	Pabe	Pabe_genes.fasta
+Ptro_genome.fasta	Hsap_lincRNAs.fasta	Hsap	Ptro	Ptro_genes.fasta
+Mmus_genome.fasta	Hsap_lincRNAs.fasta	Hsap	Mmus	Mmus_genes.fasta	Mmus_lincRNAs
+Adjust script to take FASTA instead of gff
